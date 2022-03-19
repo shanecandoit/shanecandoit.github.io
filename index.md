@@ -1,6 +1,6 @@
 ## Welcome to Shanes Pages
 
-Shane is a Full-Stack Developer and (aspiring) Machine Learning Engineer.
+Shane is a Full-Stack Developer and Machine Learning Engineer.
 
 My [Linked In](https://www.linkedin.com/in/shane-page-721a9021/) page
 
