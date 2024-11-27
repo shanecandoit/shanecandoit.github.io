@@ -15,8 +15,11 @@ My [Linked In](https://www.linkedin.com/in/shane-page-721a9021/) page
 2. Certificate program in [Machine Learning course through Univeristy of Texas](http://www.mccombs.utexas.edu/execed/for-individuals/certificates/great-learning/)
 
 ## Work History:
+- Enterprise Fleet Management
+  - Industry: Transportation
+  - REST APIs w Python and AWS
 - Touchnet
-  - Industry: Finance.
+  - Industry: Finance
   - REST Java, React, Python, some Google Cloud
 - Evergy 
   -   Industry: Energy
